@@ -1,0 +1,2 @@
+# nav-menu
+In this article, Solodev will teach you how to create a responsive navigation menu with pure CSS. Typically, a mixture of JavaScript and CSS are involved in creating responsive navigation menus which can cause slower load times and and a depreciated user experience (UX). By creating a responsive nav menu with pure CSS, you optimize website load speed and create a more seamless, quick navigation experience for website visitors.
